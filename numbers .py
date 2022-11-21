@@ -13,5 +13,6 @@ def main():
                 print("RGB({0},{1},{2})".format(i, j, k))
     print("\nDone.")
 
+
 if __name__ == "__main__":
     main()
